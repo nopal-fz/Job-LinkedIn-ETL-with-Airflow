@@ -1,0 +1,324 @@
+python
+r
+java
+c++
+c
+scala
+sql
+nosql
+mysql
+postgresql
+sqlite
+mongodb
+cassandra
+redis
+elasticsearch
+neo4j
+bigquery
+snowflake
+redshift
+dynamodb
+hbase
+oracle
+mariadb
+firebase
+cloud firestore
+aws
+amazon web services
+gcp
+google cloud
+azure
+azure cloud
+cloud computing
+cloud architecture
+terraform
+ansible
+cloudformation
+serverless
+lambda
+api gateway
+cloud monitoring
+iam
+eks
+ecs
+s3
+ec2
+vpc
+cloud storage
+bigtable
+dataproc
+dataflow
+pubsub
+app engine
+vertex ai
+cloud run
+kubernetes
+k8s
+docker
+containerization
+docker compose
+helm
+ci/cd
+jenkins
+gitlab ci
+github actions
+bitbucket pipelines
+devops
+mlops
+dataops
+prometheus
+grafana
+splunk
+elk stack
+kafka
+rabbitmq
+airflow
+prefect
+dagster
+event streaming
+microservices
+rest api
+graphql
+fastapi
+flask
+django
+spring boot
+nodejs
+expressjs
+typescript
+javascript
+html
+css
+react
+angular
+vue
+svelte
+frontend development
+backend development
+full stack development
+api design
+grpc
+oauth
+jwt
+linux
+unix
+bash
+shell scripting
+powershell
+virtualization
+vmware
+nginx
+apache
+load balancing
+scalability
+distributed systems
+parallel computing
+mapreduce
+hadoop
+hdfs
+spark
+pyspark
+spark sql
+spark streaming
+databricks
+data warehouse
+data modeling
+dimensional modeling
+star schema
+snowflake schema
+etl
+elt
+data pipeline
+data ingestion
+data cleaning
+data wrangling
+feature engineering
+feature selection
+data preprocessing
+eda
+statistical analysis
+hypothesis testing
+probability
+bayesian statistics
+markov chain
+random forest
+decision tree
+xgboost
+lightgbm
+catboost
+gradient boosting
+svm
+knn
+naive bayes
+logistic regression
+linear regression
+ridge regression
+lasso
+elasticnet
+pca
+clustering
+kmeans
+hierarchical clustering
+dbscan
+time series
+arima
+sarima
+lstm
+gru
+transformer
+attention mechanism
+deep learning
+neural networks
+cnn
+rnn
+bert
+gpt
+llm
+nlp
+natural language processing
+tokenization
+word embeddings
+word2vec
+glove
+fasttext
+text classification
+text generation
+question answering
+sentiment analysis
+entity recognition
+speech recognition
+computer vision
+image classification
+object detection
+machine learning
+deep learning
+computer vision
+large language modelling
+mlops
+segmentation
+yolo
+aws
+tensorflow
+pytorch
+sklearn
+git
+data engineering
+data scientist
+azure
+generative ai
+faster rcnn
+mobilenet
+data visualization
+predictive modelling
+resnet
+efficientnet
+ocr
+tesseract
+opencv
+pytorch
+torch
+tensorflow
+keras
+jax
+huggingface
+sklearn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+altair
+data visualization
+dashboarding
+tableau
+powerbi
+looker
+superset
+metabase
+qlik
+business intelligence
+business analytics
+product analytics
+ab testing
+cohort analysis
+metric design
+kpi analysis
+customer segmentation
+crm analytics
+marketing analytics
+finance analytics
+risk modeling
+fraud detection
+recommender system
+collaborative filtering
+matrix factorization
+ranking models
+graph analytics
+knowledge graphs
+vector databases
+faiss
+chroma
+weaviate
+pinecone
+qdrant
+milvus
+semantic search
+retrieval augmented generation
+rag
+model evaluation
+model deployment
+model serving
+api deployment
+docker deployment
+kubernetes deployment
+streamlit
+gradio
+flask api
+fastapi api
+graphql api
+git
+github
+gitlab
+version control
+jira
+confluence
+scrum
+agile
+kanban
+project management
+leadership
+communication
+teamwork
+problem solving
+critical thinking
+presentation skills
+research skills
+writing skills
+testing
+unit testing
+integration testing
+pytest
+unittest
+load testing
+performance testing
+monitoring
+logging
+observability
+data ethics
+privacy
+security
+encryption
+threat modeling
+penetration testing
+networking
+tcp/ip
+dns
+http
+ssl
+tls
+encryption
+oauth2
+jwt auth
+sso
+saml
