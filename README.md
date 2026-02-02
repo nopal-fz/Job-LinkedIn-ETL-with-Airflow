@@ -6,6 +6,12 @@ This project was built as a hands-on learning project to finally *start using Ai
 
 ---
 
+## 🖼️ ETL Workflow Diagram
+
+![LinkedIn ETL Pipeline](assets/airflow.jpg)
+
+---
+
 ## 🚀 Project Overview
 
 The pipeline consists of three main stages orchestrated by **Apache Airflow DAG**:
